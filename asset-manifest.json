@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.42b4d3e0.chunk.css",
-    "main.js": "/static/js/main.258bd76f.chunk.js",
-    "main.js.map": "/static/js/main.258bd76f.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.6a0f61f3.js",
-    "runtime-main.js.map": "/static/js/runtime-main.6a0f61f3.js.map",
-    "static/js/2.8a263943.chunk.js": "/static/js/2.8a263943.chunk.js",
-    "static/js/2.8a263943.chunk.js.map": "/static/js/2.8a263943.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.fd9ddb2572a228451c4e46d64c6e16c1.js": "/precache-manifest.fd9ddb2572a228451c4e46d64c6e16c1.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.42b4d3e0.chunk.css.map": "/static/css/main.42b4d3e0.chunk.css.map",
-    "static/js/2.8a263943.chunk.js.LICENSE": "/static/js/2.8a263943.chunk.js.LICENSE"
+    "main.css": "/airbnb-clone/static/css/main.42b4d3e0.chunk.css",
+    "main.js": "/airbnb-clone/static/js/main.dc7d96a5.chunk.js",
+    "main.js.map": "/airbnb-clone/static/js/main.dc7d96a5.chunk.js.map",
+    "runtime-main.js": "/airbnb-clone/static/js/runtime-main.36d3ebea.js",
+    "runtime-main.js.map": "/airbnb-clone/static/js/runtime-main.36d3ebea.js.map",
+    "static/js/2.8a263943.chunk.js": "/airbnb-clone/static/js/2.8a263943.chunk.js",
+    "static/js/2.8a263943.chunk.js.map": "/airbnb-clone/static/js/2.8a263943.chunk.js.map",
+    "index.html": "/airbnb-clone/index.html",
+    "precache-manifest.235ce8359065d1613ccdebee02d88f45.js": "/airbnb-clone/precache-manifest.235ce8359065d1613ccdebee02d88f45.js",
+    "service-worker.js": "/airbnb-clone/service-worker.js",
+    "static/css/main.42b4d3e0.chunk.css.map": "/airbnb-clone/static/css/main.42b4d3e0.chunk.css.map",
+    "static/js/2.8a263943.chunk.js.LICENSE": "/airbnb-clone/static/js/2.8a263943.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.6a0f61f3.js",
+    "static/js/runtime-main.36d3ebea.js",
     "static/js/2.8a263943.chunk.js",
     "static/css/main.42b4d3e0.chunk.css",
-    "static/js/main.258bd76f.chunk.js"
+    "static/js/main.dc7d96a5.chunk.js"
   ]
 }
